@@ -1,7 +1,7 @@
 ### Hi there! I'm Igor
 
 <div>
-:construction_worker: Fullstack JS developer<br>
+:construction_worker: Fullstack web developer<br>
 :construction: Interested in web development and economics
   
 ## :pencil: Contact me
