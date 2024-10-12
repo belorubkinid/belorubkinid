@@ -31,7 +31,7 @@
 <h3>Deploy</h3>
 
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />
-<img src="https://img.shields.io/badge/nginx-282C34?logo=nginx" alt="Nginx logo" title="Nginx" height="25" />
+<img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx" alt="Nginx logo" title="Nginx" height="25" />
 
 
 <h3>Testing</h3>
